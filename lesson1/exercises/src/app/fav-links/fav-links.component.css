@@ -1,0 +1,17 @@
+#linksDiv {
+    width:300px;
+    margin: auto;
+    background-color: mintcream;
+    border-width: thick;
+    border-style: dotted;
+    border: mediumaquamarine;
+}
+#linksID {
+    color: indianred;
+    font-size: 32px;
+    text-decoration: underline;
+}
+a {
+    font-size: 30px;
+    font-style: oblique;
+}

@@ -1,0 +1,21 @@
+#linksID {
+    text-align: center;
+}
+.what {
+    text-align: right;
+    margin-right: 10px;
+
+}
+.what:hover {
+    font-size: 100px;
+}
+.blinking {
+	animation:blinkingText 0.8s infinite;
+}
+@keyframes blinkingText {
+	0%{		color: tomato;	}
+	49%{	color: transparent;	}
+	50%{	color: transparent;	}
+	99%{	color:transparent;	}
+	100%{	color: yellow;	}
+}
